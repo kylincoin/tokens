@@ -1,0 +1,11 @@
+{
+    "name": "火星人币",
+    "website": "-",
+    "description": "火星人币",
+    "explorer": "https://hecoinfo.com/token/0x42E45f699D0db6Ff328e949f667D693e73a96dc7",
+    "type": "HRC-20",
+    "symbol": "MTBB",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x42E45f699D0db6Ff328e949f667D693e73a96dc7"
+}
